@@ -1,4 +1,4 @@
-Django==5.1
+Django
 faiss-cpu
 langchain-community
 langchain-openai
@@ -11,3 +11,5 @@ PyPDF2
 python-dotenv==1.0.1
 gunicorn
 psycopg[binary]
+sentence-transformers
+transformers
